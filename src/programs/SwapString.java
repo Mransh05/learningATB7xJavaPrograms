@@ -9,7 +9,6 @@ public class SwapString {
         String str1 = str.nextLine();
         System.out.println("Enter second  string: ");
         String str2 = str.nextLine();
-
         System.out.println("Before swapping:");
         System.out.println("str1: " + str1);
         System.out.println("str2: " + str2);
